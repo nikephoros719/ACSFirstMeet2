@@ -1,0 +1,66 @@
+/* if (test == 67)
+{
+    printf("ACS #67");
+}
+else 
+    printf("Not ACS #67");
+
+return 0;/*
+
+you can have as many else if as you want
+
+If (testA < testB)
+{
+    printf("A is less than B");
+}
+Else if (testA > testB)
+{
+    printf("A is greater than B");
+}
+
+printf("Enter number A")
+scanf("%d", &testA);
+
+Checks if the number is even or odd
+If( x%2 ==0 )
+{
+    printf("x is an even number");
+}
+
+*/
+
+/*
+    while(condition)
+    {
+    code
+    }
+*/
+
+/* for (start ; stop ; step)
+{
+    (code)
+}
+
+for (int i = 0; 1 < 3)
+{
+    printf(I love you\n)
+    break;
+}
+*/
+
+/*
+    ARRAYYYYYYYYYYYYYYYYYYYYYYY 
+    int main(){
+    int array[6] = {2,4,10,5,15,3};
+
+    printf("%d",array[0]);
+    return 0;
+    }
+
+    array int (intArray)
+    array float (floatArray)
+    array char (chararray)
+    
+    int arr[5] = {1,2,3,4,5};
+    for i
+*/
